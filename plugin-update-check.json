@@ -1,0 +1,20 @@
+{
+  "name": "ShopShield - Cookie Compliance GDPR",
+  "slug": "shopshield-guard",
+  "version": "1.0.0",
+  "author": "RMP Foodworks s.r.l.",
+  "author_homepage": "https://shopshield.io",
+  "homepage": "https://shopshield.io",
+  "download_url": "https://shopshield.io/downloads/shopshield-guard-1.0.0.zip",
+  "requires": "5.8",
+  "tested": "6.7",
+  "requires_php": "7.4",
+  "last_updated": "2026-05-21",
+  "sections": {
+    "description": "ShopShield sostituisce il tuo plugin cookie banner, tracker manager e consulente GDPR. Uno snippet, 3 minuti.",
+    "changelog": "= 1.0.0 =\n* Prima release Early Access"
+  },
+  "icons": {
+    "1x": "https://shopshield.io/wp-content/uploads/2026/03/logo-compliance.png"
+  }
+}
