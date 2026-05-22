@@ -5,7 +5,7 @@
   "author": "RMP Foodworks s.r.l.",
   "author_homepage": "https://shopshield.io",
   "homepage": "https://shopshield.io",
-  "download_url": "https://shopshield.io/downloads/shopshield-guard-1.0.0.zip",
+  "download_url": "https://github.com/MacNaym/shopshield-updates/releases/download/1.0.0/shopshield-guard-1.0.0.zip",
   "requires": "5.8",
   "tested": "6.7",
   "requires_php": "7.4",
