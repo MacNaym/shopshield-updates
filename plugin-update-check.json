@@ -7,7 +7,7 @@
   "homepage": "https://shopshield.io",
   "download_url": "https://github.com/MacNaym/shopshield-updates/releases/download/1.0.0/shopshield-guard-1.0.0.zip",
   "requires": "5.8",
-  "tested": "6.7",
+  "tested": "7.0",
   "requires_php": "7.4",
   "last_updated": "2026-05-21",
   "sections": {
@@ -15,6 +15,7 @@
     "changelog": "= 1.0.0 =\n* Prima release Early Access"
   },
   "icons": {
-    "1x": "https://shopshield.io/wp-content/uploads/2026/03/logo-compliance.png"
+    "1x": "https://shopshield.io/wp-content/uploads/2026/03/logo-quadrato-200x200-1.png",
+    "2x": "https://shopshield.io/wp-content/uploads/2026/03/logo-quadrato-200x200-1.png"
   }
 }
